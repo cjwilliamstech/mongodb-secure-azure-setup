@@ -35,3 +35,15 @@ sudo tee /etc/apt/sources.list.d/mongodb-org-6.0.list
 
 sudo apt update
 sudo apt install -y mongodb-org
+
+### MongoDB Service Status
+
+![MongoDB Status](screenshots/mongod-status.png)
+
+### Logged In with Admin Account
+
+![Admin Login](screenshots/mongosh-admin-login.png)
+
+### UFW Firewall Status
+
+![Firewall Status](screenshots/ufw-status.png)
