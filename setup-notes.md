@@ -38,7 +38,7 @@ net:
 security:
   authorization: enabled
 
-# Saved and exicted. Then restarted MongoDB
+# Saved and exited. Then restarted MongoDB
 sudo systemctl restart mongod
 
 # Create Admin User 
